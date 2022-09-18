@@ -17,4 +17,5 @@ const colors = {
     900: "#9d0e43",
   },
 };
+
 export default extendTheme({ config, colors });

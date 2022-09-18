@@ -1,6 +1,9 @@
+import { TextArea } from "native-base";
 import { LightSpeedInLeft } from "react-native-reanimated";
 
 const en = {
+  NewInput: "New input",
+  PlaceHolder: "Task, product...",
   Light: "Light",
   Dark: "Dark",
   Language1: "English",
@@ -15,6 +18,8 @@ const en = {
 };
 
 const es = {
+  NewInput: "Nuevo elemento",
+  PlaceHolder: "Tarea, producto...",
   Light: "Claro",
   Dark: "Oscuro",
   Language1: "Inglés",
